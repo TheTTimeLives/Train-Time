@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+.jumbotron {
+    font-family: 'Archivo Black', sans-serif;
+}
+
+
+.form-group {
+font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+#addEmployee {
+    margin: 10px;
+}
+
+.table {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+    
